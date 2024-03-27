@@ -1,0 +1,13 @@
+Step 1: Create a folder: airflow
+
+Step 2: Move all files to the airflow folder
+
+Step 3: Run bash: docker compose up
+
+Step 4: Run bash: docker compose down
+
+Step 5: Run bash: docker build -t my_airflow .
+
+Step 6: Renamed image: my_airflow ở file docker-compose.yaml
+
+Step 7: docker compose up
