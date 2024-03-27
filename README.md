@@ -8,6 +8,7 @@ airflow:2.8.2
 mongodb:4.4
 spark:3.4.1
 JDK:17
+Docker
 
 Processing content is to count the number of questions to see how many answers there are.
 
