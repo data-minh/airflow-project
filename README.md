@@ -10,6 +10,7 @@ spark:3.4.1
 JDK:17
 
 Processing content is to count the number of questions to see how many answers there are.
+
 GUIDE:
 
 Step 1: Create a folder: airflow
